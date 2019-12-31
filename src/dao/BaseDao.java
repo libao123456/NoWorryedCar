@@ -47,5 +47,9 @@ public class BaseDao {
             e.printStackTrace();
         }
         return rs;
+    } public static void main(String[] args) {
+
     }
+
 }
+

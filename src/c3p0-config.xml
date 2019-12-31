@@ -8,7 +8,7 @@
         <!-- 用户名 -->
         <property name="user">root</property>
         <!-- 密码 -->
-        <property name="password">1234</property>
+        <property name="password">123456</property>
 
 
 
